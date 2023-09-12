@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Incident)">c59165e8f95131107f4409e9034a494d</button>
+        <item_parameter display_value="Incident priority">019165e8f95131107f4409e9034a4948</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-12 07:58:19</sys_created_on>
+        <sys_id>959165e8f95131107f4409e9034a4958</sys_id>
+        <sys_name>019165e8f95131107f4409e9034a4948</sys_name>
+        <sys_package display_value="App new snow" source="x_snc_app_new_snow">9b01e9a8f95131107f4409e9034a49d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App new snow">9b01e9a8f95131107f4409e9034a49d6</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_959165e8f95131107f4409e9034a4958</sys_update_name>
+        <ui_parameter display_value="Priority">cd9165e8f95131107f4409e9034a494d</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

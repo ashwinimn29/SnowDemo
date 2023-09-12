@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE">
+        <description/>
+        <name display_value="FieldLabel">c90fd1c2b7321010df65f6efce11a9d2</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-12 07:58:17</sys_created_on>
+        <sys_id>b89165e8f95131107f4409e9034a4908</sys_id>
+        <sys_name>c90fd1c2b7321010df65f6efce11a9d2</sys_name>
+        <sys_package display_value="App new snow" source="x_snc_app_new_snow">9b01e9a8f95131107f4409e9034a49d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="App new snow">9b01e9a8f95131107f4409e9034a49d6</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_b89165e8f95131107f4409e9034a4908</sys_update_name>
+        <translated_value/>
+        <value>opened_by</value>
+        <view_config_element display_value="opened_by-FieldLabel">bc9165e8f95131107f4409e9034a4906</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="delete_multiple" query="documentkey=b89165e8f95131107f4409e9034a4908"/>
+</record_update>
