@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="eefd3120c3553110cc6b98477d013117" extends="cmdb_ci_appl" label="Application_demo" max_length="40" name="x_1123126_snow_d_0_application_demo" type="collection"/>
+</database>

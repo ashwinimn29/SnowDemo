@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Configuration Management (CMDB)" source="com.snc.cmdb">cfdf9cfad423211095d7c105f1bf433e</dependency>
+        <min_version>1.1</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-12 10:02:24</sys_created_on>
+        <sys_id>72fd3120c3553110cc6b98477d0131c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Snow Demo" source="x_1123126_snow_d_0">e69d39ecc3153110cc6b98477d01315e</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-12 10:02:24</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
